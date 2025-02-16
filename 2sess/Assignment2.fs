@@ -35,13 +35,23 @@ let combinePair (xs: 'a list) =
     helper xs
 
 
-type complex = (int * int) // Fill in your type here
-let mkComplex _ = failwith "not implemented"
-let complexToPair _ = failwith "not implemented"
-let (|+|) _ = failwith "not implemented"
-let (|*|) _ = failwith "not implemented"
-let (|-|) _ = failwith "not implemented"
-let (|/|) _ = failwith "not implemented"
+type complex = float * float // Fill in your type here
+let mkComplex (a: float) (b: float) : complex = (a, b)
+
+let complexToPair (c: complex) : float * float = (fst c, snd c)
+
+let (|+|) (c1: complex) (c2: complex) : complex = (fst c1 + fst c2, snd c1 + snd c2)
+
+let (|*|) (c1: complex) (c2: complex) : complex =
+    (fst c1 * fst c2 - snd c1 * snd c2, snd c1 * fst c2 + fst c1 * snd c2)
+
+let (|-|) (c1: complex) (c2: complex) = (fst c1 - fst c2, snd c1 - snd c2)
+
+let (|/|) (c1: complex) (c2: complex) =
+    let (a, b) = c1
+    let (c, d) = c2
+    let denom = c * c + d * d
+    ((a * c + b * d) / denom, (b * c - a * d) / denom)
 
 let explode1 (s: string) : char list = s |> Seq.toList
 
