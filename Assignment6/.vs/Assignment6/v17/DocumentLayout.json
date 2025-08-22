@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\youss\\Documents\\git_repos\\4semester\\Functional\\Assignment6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F77218E-02C2-0E8F-2E44-BE4AED5002F2}|Assignment6.fsproj|c:\\users\\youss\\documents\\git_repos\\4semester\\functional\\assignment6\\state.fsi||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{8F77218E-02C2-0E8F-2E44-BE4AED5002F2}|Assignment6.fsproj|solutionrelative:state.fsi||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F77218E-02C2-0E8F-2E44-BE4AED5002F2}|Assignment6.fsproj|c:\\users\\youss\\documents\\git_repos\\4semester\\functional\\assignment6\\eval.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{8F77218E-02C2-0E8F-2E44-BE4AED5002F2}|Assignment6.fsproj|solutionrelative:eval.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F77218E-02C2-0E8F-2E44-BE4AED5002F2}|Assignment6.fsproj|c:\\users\\youss\\documents\\git_repos\\4semester\\functional\\assignment6\\assignment6.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F77218E-02C2-0E8F-2E44-BE4AED5002F2}|Assignment6.fsproj|solutionrelative:assignment6.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F77218E-02C2-0E8F-2E44-BE4AED5002F2}|Assignment6.fsproj|c:\\users\\youss\\documents\\git_repos\\4semester\\functional\\assignment6\\state.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{8F77218E-02C2-0E8F-2E44-BE4AED5002F2}|Assignment6.fsproj|solutionrelative:state.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment6.fsproj",
+              "DocumentMoniker": "C:\\Users\\youss\\Documents\\git_repos\\4semester\\Functional\\Assignment6\\Assignment6.fsproj",
+              "RelativeDocumentMoniker": "Assignment6.fsproj",
+              "ToolTip": "C:\\Users\\youss\\Documents\\git_repos\\4semester\\Functional\\Assignment6\\Assignment6.fsproj",
+              "RelativeToolTip": "Assignment6.fsproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001351|",
+              "WhenOpened": "2025-03-11T14:21:22.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "State.fsi",
+              "DocumentMoniker": "C:\\Users\\youss\\Documents\\git_repos\\4semester\\Functional\\Assignment6\\State.fsi",
+              "RelativeDocumentMoniker": "State.fsi",
+              "ToolTip": "C:\\Users\\youss\\Documents\\git_repos\\4semester\\Functional\\Assignment6\\State.fsi",
+              "RelativeToolTip": "State.fsi",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-11T14:21:06.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "State.fs",
+              "DocumentMoniker": "C:\\Users\\youss\\Documents\\git_repos\\4semester\\Functional\\Assignment6\\State.fs",
+              "RelativeDocumentMoniker": "State.fs",
+              "ToolTip": "C:\\Users\\youss\\Documents\\git_repos\\4semester\\Functional\\Assignment6\\State.fs",
+              "RelativeToolTip": "State.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-11T14:21:05.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Eval.fs",
+              "DocumentMoniker": "C:\\Users\\youss\\Documents\\git_repos\\4semester\\Functional\\Assignment6\\Eval.fs",
+              "RelativeDocumentMoniker": "Eval.fs",
+              "ToolTip": "C:\\Users\\youss\\Documents\\git_repos\\4semester\\Functional\\Assignment6\\Eval.fs",
+              "RelativeToolTip": "Eval.fs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAiwIkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-11T13:23:19.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

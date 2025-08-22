@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oMXD/AE/tfI=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\youss\\Documents\\git_repos\\4semester\\Functional\\Assignment5\\Assignment5.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\youss\\.nuget\\packages\\fsharp.core\\9.0.201\\fsharp.core.9.0.201.nupkg.sha512"
+  ],
+  "logs": []
+}

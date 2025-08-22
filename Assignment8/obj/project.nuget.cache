@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YIS3VVMtdac=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\youss\\Documents\\git_repos\\4semester\\Functional\\Assignment8\\Assignment8.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\youss\\.nuget\\packages\\fparsec\\1.1.1\\fparsec.1.1.1.nupkg.sha512",
+    "C:\\Users\\youss\\.nuget\\packages\\fsharp.core\\9.0.202\\fsharp.core.9.0.202.nupkg.sha512"
+  ],
+  "logs": []
+}
